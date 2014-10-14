@@ -1,0 +1,23 @@
+{
+    "name": "mikehaertl/pdftk2-precise-amd64",
+    "description": "The pdftk 2 binary for Ubuntu 12.04 LTS (amd64)",
+    "keywords": ["pdf", "pdftk"],
+    "type": "library",
+    "license": "GPL",
+    "homepage": "https://www.pdflabs.com",
+    "authors": [
+        {
+            "name": "Sid Steward",
+            "email": "sid.steward@pdflabs.com"
+        },
+        {
+            "name": "Michael Haertl",
+            "email": "haertl.mike@gmail.com"
+        }
+    ],
+    "bin": [
+        "bin/pdftk"
+    ]
+    "require": {
+    }
+}
