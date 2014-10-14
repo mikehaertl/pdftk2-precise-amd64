@@ -3,7 +3,7 @@
     "description": "The pdftk 2 binary for Ubuntu 12.04 LTS (amd64)",
     "keywords": ["pdf", "pdftk"],
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-2.0",
     "homepage": "https://www.pdflabs.com",
     "authors": [
         {
@@ -17,7 +17,7 @@
     ],
     "bin": [
         "bin/pdftk"
-    ]
+    ],
     "require": {
     }
 }
